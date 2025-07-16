@@ -95,7 +95,7 @@ Copyright (c) 2025 Abhijeet Singh
 
 
 # 🙏 Acknowledgements
-** MediaPipe by Google for the Pose & FaceMesh APIs.**
+**MediaPipe by Google for the Pose & FaceMesh APIs.**
 
 **OpenCV for real-time video processing.**
 
